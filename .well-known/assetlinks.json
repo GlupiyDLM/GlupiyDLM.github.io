@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.glupiydlm.twa",
-        "sha256_cert_fingerprints": ["7E:E7:3E:3B:7A:DD:04:D0:79:FE:9F:2C:EF:D4:34:38:A1:25:21:53:7A:1D:2B:90:21:E7:63:14:1C:E9:63:A8"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.glupiyDLM.twa",
+    "sha256_cert_fingerprints": ["C1:26:B6:75:29:08:F5:B5:32:15:9E:E4:B0:4C:C0:56:E6:24:29:38:A8:C4:6A:3B:AD:BF:39:0B:EB:7D:77:52"]
+  }
+}]
